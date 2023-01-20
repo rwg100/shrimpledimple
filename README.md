@@ -1,6 +1,8 @@
-- Hi, I’m @shrimpledimple
-- I’m interested in making meaningless posts and messages
-- I’m currently learning how to be funny
+- this is a github account
+- its for school
+- not school stuff
+- kinda school stuff?
+- idk man
 
 <!---
 shrimpledimple/shrimpledimple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
